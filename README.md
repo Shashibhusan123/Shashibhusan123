@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shashibhusan123
+- 👋 Hi, I’m Shashi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning basic in python not learn so much
 - 📫 How to reach me ... https://discord.gg/qveas3jQ , Shashi#0796
